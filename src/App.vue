@@ -1,15 +1,15 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <Notepad />
+  <NotePad />
 </template>
 
 <script>
-import Notepad from './components/notepad.vue';
+import NotePad from './components/notepad.vue';
 
 export default {
   name: 'App',
   components: {
-    Notepad
+    NotePad
   }
 };
 </script>

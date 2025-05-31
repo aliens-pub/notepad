@@ -18,7 +18,7 @@
 
 <script>
 export default {
-  name: 'Notepad',
+  name: 'NotePad',
   data() {
     return {
       newNote: '',
